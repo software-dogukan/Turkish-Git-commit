@@ -72,6 +72,8 @@ GİT-GİTHUB
 
 Git remote add origin http*******------- burada hangi repo olursa onu belirtiyoruz
 
+git remote set-url origin <yeni-url>-------------- burada origin url deği,ştirirken yapıyoruz
+
 Git push -u origin master ------------------ yaptığımızda giriş yapmamız gerekecek. Ve izin veriyorsunuz ve yüklemeleri yapıyoruz.
 
 git config - - global user.name “Doğukan”---------------- kullanaıcı ismini Doğukan olarak değiştirdik
